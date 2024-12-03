@@ -1,0 +1,17 @@
+/* style.css */
+.hobby-list {
+  margin: 16px auto;
+  max-width: 300px;
+}
+
+.hobby-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.hobby-list li {
+  background: #f0f0f0;
+  margin: 4px 0;
+  padding: 8px;
+  border-radius: 4px;
+}
